@@ -84,9 +84,9 @@ Achievement: University 1st Rank
 
 ## Certifications
 
-- DSA with Java— Apna College
-- Introduction to Cybersecurity — Cisco
-- AWS Cloud Essentials — Coursera
+- DSA with Java - Apna College
+- Introduction to Cybersecurity - Cisco
+- AWS Cloud Essentials - Coursera
 
 ## Profiles
 
